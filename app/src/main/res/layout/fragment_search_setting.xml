@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#d9d5d4"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+            style="@style/text_change_password"
+            android:text="Show me..."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            style="@style/linearlayout_search_setting">
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:gravity="center"
+                android:background="@drawable/toggle_button_group_women_background"
+                android:text="@string/toggle_button_group_women_button"
+                android:textOff="@string/search_setting_show_me_women"
+                android:textOn="@string/search_setting_show_me_women"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:background="@drawable/toggle_button_group_men_background"
+                android:text="@string/toggle_button_group_men_button"
+                android:textOff="@string/search_setting_show_me_men"
+                android:textOn="@string/search_setting_show_me_men"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:layout_gravity="right"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:background="@drawable/toggle_button_group_both_background"
+                android:text="@string/common_men_and_women"
+                android:textOff="@string/common_men_and_women"
+                android:textOn="@string/common_men_and_women"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+    </LinearLayout>
+    <TextView
+            style="@style/text_change_password"
+            android:text="interested in..."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            style="@style/linearlayout_search_setting">
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:gravity="center"
+                android:background="@drawable/toggle_button_group_women_background"
+                android:text="@string/toggle_button_group_women_button"
+                android:textOff="@string/search_setting_show_me_women"
+                android:textOn="@string/search_setting_show_me_women"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center"
+                android:background="@drawable/toggle_button_group_men_background"
+                android:text="@string/toggle_button_group_men_button"
+                android:textOff="@string/search_setting_show_me_men"
+                android:textOn="@string/search_setting_show_me_men"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+        <ToggleButton
+                android:layout_marginLeft="8dp"
+                android:layout_gravity="right"
+                android:gravity="center"
+                android:textAllCaps="false"
+                android:background="@drawable/toggle_button_group_both_background"
+                android:text="@string/common_men_and_women"
+                android:textOff="@string/common_men_and_women"
+                android:textOn="@string/common_men_and_women"
+                android:layout_width="110dp"
+                android:layout_height="40dp"/>
+    </LinearLayout>
+    <TextView
+            style="@style/text_change_password"
+            android:text="that are within..."
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            style="@style/linearlayout_search_setting">
+        <ToggleButton
+                style="@style/toggle_button_group"
+
+                android:background="@drawable/toggle_button_group_near_background"
+                android:text="@string/toggle_button_group_near_button"
+                android:textOff="@string/search_setting_location_near"
+                android:textOn="@string/search_setting_location_near" />
+        <ToggleButton
+                style="@style/toggle_button_group"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/toggle_button_group_city_background"
+                android:text="@string/toggle_button_group_city_button"
+                android:textOff="@string/search_setting_location_city"
+                android:textOn="@string/search_setting_location_city"/>
+        <ToggleButton
+                style="@style/toggle_button_group"
+                android:layout_gravity="right"
+                android:background="@drawable/toggle_button_group_state_background"
+                android:text="@string/toggle_button_group_state_button"
+                android:textOff="@string/search_setting_location_state"
+                android:textOn="@string/search_setting_location_state"  />
+
+    </LinearLayout>
+    <LinearLayout
+            android:gravity="center_horizontal"
+            style="@style/linearlayout_search_setting">
+
+        <ToggleButton
+                style="@style/toggle_button_group"
+                android:layout_gravity="center"
+                android:layout_weight="2"
+                android:background="@drawable/toggle_button_group_country_background"
+                android:text="@string/toggle_button_group_country_button"
+                android:textOff="@string/search_setting_location_country"
+                android:textOn="@string/search_setting_location_country" />
+        <ToggleButton
+                style="@style/toggle_button_group"
+                android:layout_gravity="center"
+                android:layout_weight="2"
+                android:background="@drawable/toggle_button_group_world_background"
+                android:text="@string/toggle_button_group_world_button"
+                android:textOff="@string/search_setting_location_world"
+                android:textOn="@string/search_setting_location_world"/>
+    </LinearLayout>
+    <TextView
+            style="@style/text_change_password"
+            android:text="of ages between"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <TextView
+            android:background="@drawable/shape_edittext_login"
+            android:text="18 and 120"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <TextView
+            style="@style/text_change_password"
+            android:text="of ethnicity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    <TextView
+            android:background="@drawable/shape_edittext_login"
+            android:text="All"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- SYSTEM COLOR -->
+    <color name="default_theme_background">#FFFFFF</color>
+    <color name="default_window_title_background">#323331</color>
+
+    <!-- LIST BORDER COLOR -->
+    <color name="rounded_container_border">#ffb7babb</color>
+    <color name="frame_input_border">#D3D3D3</color>
+
+    <!-- ACTIVITY BACKGROUND COLOR -->
+    <color name="activity_base">#EFEFEF</color>
+    <color name="sliding_menu_left_background">#32394a</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - DEFAULT -->
+    <color name="base_start_color_default">#FFFFFF</color>
+    <color name="base_end_color_default">#FFFFFF</color>
+    <color name="frame_input_background">#FFFFFF</color>
+    <color name="toggle_button_group_start">#FFFFFF</color>
+    <color name="toggle_button_group_end">#E5E5E5</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - PRESSED -->
+    <color name="base_start_color_pressed">#ff3590c4</color>
+    <color name="base_end_color_pressed">#ff2570ba</color>
+    <color name="toggle_button_group_start_pressed">#728E32</color>
+    <color name="toggle_button_group_end_pressed">#A0CB47</color>
+
+    <!-- ITEM BACKGROUND COLOR - STATE - CHECKED -->
+    <color name="toggle_button_group_start_checked">#728E32</color>
+    <color name="toggle_button_group_end_checked">#A0CB47</color>
+
+    <!-- ITEM TEXT COLORS - STATES - PRESSED AND DEFAULT -->
+    <color name="text_color_default">#000000</color>
+    <color name="text_color_pressed">#ffffff</color>
+    <color name="activity_splash_txt_appname">#ffffff</color>
+    <color name="navigator_bar">#ffffff</color>
+    <color name="textview_edit_my_profile_status">#ffffff</color>
+    <color name="dialog_background_color">#D0D0D0</color>
+    <color name="dialog_height_line_background">#9DA6AD</color>
+
+    <!-- Color name standard -->
+    <color name="white_dark">#FAAA</color>
+    <color name="gray_light">#FF818181</color>
+    <color name="gray">#F777</color>
+    <color name="gray_dark">#F555</color>
+    <color name="black_light">#F333</color>
+    <color name="black">#F000</color>
+    <color name="blue">#F00F</color>
+    <color name="blue_transparent">#500F</color>
+    <color name="yellow">#FFF0</color>
+    <color name="dark_green">#F690</color>
+    <!-- Activity background -->
+    <color name="sd_activity">#FFEFEFEF</color>
+    <color name="black_opacity">#B000</color>
+    <!-- Border -->
+    <color name="border_nomal">#FFD3D3D3</color>
+    <color name="border_tone">#6BB247</color>
+    <!-- Line -->
+    <color name="line_dark">#c2c2c2</color>
+    <color name="line_nomal">#FFD3D3D3</color>
+    <color name="line_light">#eae9e7</color>
+    <!-- Cusor -->
+    <color name="cusor_tone">#9bc345</color>
+    <!-- Shadow and Shine -->
+    <color name="shadow_nomal_end">#0000</color>
+    <color name="shine_nomal_start">#6FFF</color>
+    <color name="shine_nomal_center">#3FFF</color>
+    <color name="shine_nomal_end">#0FFF</color>
+    <!-- Text color standard -->
+    <color name="sd_text_tone">#83a539</color>
+    <!-- CUSTOM COLOR -->
+    <color name="common_status_online">#788EFF</color>
+    <color name="common_status_offline">#808080</color>
+    <color name="cyan">#60FFFF</color>
+    <!-- Custom gradient -->
+    <color name="shadow_main_activity_start">#9000</color>
+    <color name="shadow_main_activity_center">#3000</color>
+    <color name="shadow_main_activity_end">@color/shadow_nomal_end</color>
+    <color name="bg_bg_detail_picture_profile_start">@color/gray_light</color>
+    <color name="bg_bg_detail_picture_profile_center">@color/black</color>
+    <color name="bg_bg_detail_picture_profile_end">@color/black</color>
+    <color name="tab_base_start">#f3f3f3</color>
+    <color name="tab_base_center">#d7d7d7</color>
+    <color name="tab_base_end">#c1c1c1</color>
+    <color name="btn_base_start">#f3f3f3</color>
+    <color name="btn_base_center">#e9e9e9</color>
+    <color name="btn_base_end">#c1c1c1</color>
+    <color name="btn_base_press_start">#f3f3f3</color>
+    <color name="btn_base_press_center">#d7d7d7</color>
+    <color name="btn_base_press_end">#c1c1c1</color>
+    <color name="btn_invite_start">#ffffff</color>
+    <color name="btn_invite_center">#f1f1f1</color>
+    <color name="btn_invite_end">#e5e5e5</color>
+    <color name="btn_invite_press_start">#e5e5e5</color>
+    <color name="btn_invite_press_center">#f1f1f1</color>
+    <color name="btn_invite_press_end">#ffffff</color>
+    <color name="btn_pending_start">#f1f1f1</color>
+    <color name="btn_pending_center">#f1f1f1</color>
+    <color name="btn_pending_end">#f1f1f1</color>
+    <color name="btn_tone_start">#718f32</color>
+    <color name="btn_tone_center">#a1ca4b</color>
+    <color name="btn_tone_end">#a1ca4b</color>
+    <color name="btn_tone_press_start">#f3f3f3</color>
+    <color name="btn_tone_press_center">#d7d7d7</color>
+    <color name="btn_tone_press_end">#c1c1c1</color>
+    <!-- Custom text -->
+    <color name="text_header_pull_to_refresh">#515151</color>
+    <color name="text_sub_header_pull_to_refresh">#515151</color>
+    <color name="text_navi_btn_nomal">#ffffff</color>
+    <color name="text_navi_btn_press">#435691</color>
+    <color name="text_title_tab_widget_with_bg_color_nomal">#FFFFFF</color>
+    <color name="text_title_tab_widget_with_bg_color_focused">#555555</color>
+    <color name="bg_share_my_buzz">#dedede</color>
+    <color name="send_disable_share_my_buzz">#bfeb64</color>
+    <color name="border_share_my_buzz">#bbbbbb</color>
+    <color name="fragment_give_gift_divider">#ababab</color>
+    <color name="btn_invite">#83a539</color>
+    <color name="record_drag">#808080</color>
+    <color name="record_delete">#ffffff</color>
+    <color name="item_buzz_text">@color/gray_light</color>
+
+    <!-- Color in chat fragment -->
+
+    <color name="item_pager_media_file">#80868d</color>
+    <color name="item_pager_media_file_bg">#c5c5c5</color>
+    <color name="item_pager_media_file_item_bg">#e6e6e6</color>
+
+    <!-- Color for text green -->
+
+    <color name="text_point_title">#555555</color>
+    <color name="bg_notification_end">#646668</color>
+    <color name="bg_notification_start">#2b2b2b</color>
+    <color name="notification_text">#e2c706</color>
+    <color name="gb_manage_online_alert">#dddddd</color>
+    <color name="boder_item_head_manage_online_alert">#808080</color>
+    <color name="boder_item_manage_online_alert">#cdcdcd</color>
+
+    <!-- color of text that displays total point in PointFragment -->
+    <color name="total_point">#718f32</color>
+
+    <color name="emoji_background">#e6e6e6</color>
+    <color name="emoji_background_clicked">#c5c5c5</color>
+</resources>

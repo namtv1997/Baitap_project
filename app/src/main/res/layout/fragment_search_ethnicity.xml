@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:orientation="vertical"
+              android:background="#d9d5d4"
+              android:padding="8dp"
+              android:layout_height="match_parent">
+    <CheckBox
+            android:background="@drawable/drawable_distance_in"
+            android:layoutDirection="rtl"
+            style="@style/text_view_notification"
+            android:text="All"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Latina/Latino"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Black/African"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Native/Aboriginal"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Asian"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="East Indian"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Pacific Islander"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="While/Caucasion"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="#ffff"
+            android:layoutDirection="rtl"
+            android:text="Middke Eastern"
+            style="@style/text_view_notification"/>
+    <CheckBox
+            android:background="@drawable/drawable_distance_in_down"
+            android:layoutDirection="rtl"
+            android:text="Mixed/Multi"
+            style="@style/text_view_notification"/>
+
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:background="#d9d5d4"
+              android:padding="8dp"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <TextView
+            android:textColor="#FFFFFFFF"
+            android:padding="4dp"
+            android:text="@string/textview_deactivate_account"
+            android:background="@drawable/text_view_deactive_acount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    <LinearLayout
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+                android:textSize="16sp"
+                android:textAllCaps="false"
+                android:background="@drawable/shape_btn_deactivate_no"
+                android:text="@string/btn_deactivate_account_no"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        <Button
+                android:textSize="16sp"
+                android:textAllCaps="false"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/shape_btn_deactivate_yes"
+                android:text="@string/btn_deactivate_account_yes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>

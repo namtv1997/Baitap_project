@@ -1,0 +1,379 @@
+<resources>
+
+    <!-- common -->
+    <dimen name="common_text_size_10sp">10sp</dimen>
+    <dimen name="common_text_size_12sp">12sp</dimen>
+    <dimen name="common_text_size_14sp">14sp</dimen>
+    <dimen name="common_text_size_16sp">16sp</dimen>
+    <dimen name="common_text_size_18sp">18sp</dimen>
+    <dimen name="common_text_size_20sp">20sp</dimen>
+    <dimen name="common_size_1dp">1dp</dimen>
+    <dimen name="common_size_2dp">2dp</dimen>
+    <dimen name="common_size_4dp">4dp</dimen>
+    <dimen name="common_size_5dp">5dp</dimen>
+    <dimen name="common_size_6dp">6dp</dimen>
+    <dimen name="common_size_8dp">8dp</dimen>
+    <dimen name="common_size_10dp">10dp</dimen>
+    <dimen name="common_size_12dp">12dp</dimen>
+    <dimen name="common_size_16dp">16dp</dimen>
+    <dimen name="common_size_20dp">20dp</dimen>
+    <dimen name="common_size_24dp">24dp</dimen>
+    <dimen name="common_size_32dp">32dp</dimen>
+    <dimen name="common_size_40dp">40dp</dimen>
+    <dimen name="common_size_48dp">48dp</dimen>
+    <dimen name="common_size_56dp">56dp</dimen>
+    <dimen name="common_size_60dp">60dp</dimen>
+    <dimen name="common_size_64dp">64dp</dimen>
+    <dimen name="common_size_72dp">72dp</dimen>
+    <dimen name="common_size_80dp">80dp</dimen>
+    <dimen name="common_size_88dp">88dp</dimen>
+    <dimen name="common_size_90dp">90dp</dimen>
+    <dimen name="common_size_96dp">96dp</dimen>
+    <dimen name="common_size_98dp">98dp</dimen>
+    <dimen name="common_size_104dp">104dp</dimen>
+    <dimen name="common_size_112dp">112dp</dimen>
+    <dimen name="common_size_120dp">120dp</dimen>
+    <dimen name="common_size_128dp">128dp</dimen>
+    <dimen name="common_size_136dp">136dp</dimen>
+    <dimen name="common_size_160dp">160dp</dimen>
+    <dimen name="common_size_240dp">240dp</dimen>
+    <dimen name="common_margin">10dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- layout_height for NavigationBar -->
+    <dimen name="nav_layout_height">52dp</dimen>
+
+    <!-- dimen for all view in cv_navigation_bar.xml -->
+    <dimen name="cv_navigation_bar_btnleft_margin">6dp</dimen>
+    <dimen name="cv_navigation_bar_btnright_margin">7dp</dimen>
+    <dimen name="cv_navigation_bar_btn_padding">10dp</dimen>
+    <dimen name="cv_navigation_bar_img_padding">5dp</dimen>
+    <dimen name="cv_navigation_bar_margin_top">3dp</dimen>
+    <dimen name="cv_navigation_bar_image_height">48dp</dimen>
+    <dimen name="cv_navigation_bar_image_padding">10dp</dimen>
+    <dimen name="cv_navigation_bar_txt_margin">5dp</dimen>
+
+    <!-- dimen for all view in activity_splash.xml -->
+    <dimen name="activity_splash_txt_textsize">50sp</dimen>
+
+    <!-- dimen for all view in activity_signup.xml -->
+    <dimen name="activity_signup_indicator_padding">7dp</dimen>
+    <dimen name="activity_signup_indicator_margin_bottom">8dp</dimen>
+    <dimen name="activity_signup_btn_padding">5dp</dimen>
+    <dimen name="activity_signup_tablerow_padding">5dp</dimen>
+    <dimen name="activity_signup_btn_marginleft">10dp</dimen>
+    <dimen name="activity_signup_img_padding">5dp</dimen>
+    <dimen name="invite_button_margin">10dp</dimen>
+    <dimen name="invite_button_width">85dp</dimen>
+    <dimen name="facebook_avatar_width">40dp</dimen>
+    <dimen name="facebook_avatar_height">40dp</dimen>
+    <dimen name="facebook_avatar_marginleft">10dp</dimen>
+    <dimen name="image_thumbnail_size">75dp</dimen>
+    <dimen name="image_thumbnail_spacing">2dp</dimen>
+    <dimen name="image_thumbnail_small_size">70dp</dimen>
+    <dimen name="image_thumbnail_small_spacing">7dp</dimen>
+
+    <!-- SLIDING MENU LEFT -->
+    <dimen name="sliding_menu_left_item_height">50dp</dimen>
+    <dimen name="sliding_menu_left_item_top_height">55dp</dimen>
+    <dimen name="sliding_menu_left_item_top_margin">10dp</dimen>
+    <dimen name="sliding_menu_left_item_title_height">30dp</dimen>
+
+    <!-- SLIDING MENU RIGHT -->
+    <dimen name="sliding_menu_right_item_group_avata_width">67dp</dimen>
+    <dimen name="sliding_menu_right_item_height">65dp</dimen>
+    <dimen name="sliding_menu_right_item_message_padding_row">10dp</dimen>
+    <dimen name="sliding_menu_right_item_message_padding_bottom_row">8dp</dimen>
+    <dimen name="sliding_menu_right_avatar_size">50dp</dimen>
+    <dimen name="sliding_menu_right_txt_padding_text">7dp</dimen>
+    <dimen name="sliding_menu_right_txt_padding_view">2dp</dimen>
+
+    <!-- dimen for all view in activity_setupprofile -->
+    <dimen name="activity_setupprofile_layout_camera">160dp</dimen>
+    <dimen name="activity_setupprofile_img_avatar_width">60dp</dimen>
+    <dimen name="activity_setupprofile_img_avatar_height">60dp</dimen>
+    <dimen name="activity_setupprofile_img_avatar_size">60dp</dimen>
+    <dimen name="activity_setupprofile_img_avatar_small_size">40dp</dimen>
+    <dimen name="activity_main_slidingmenu_offset">60dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="activity_main_shadow_width">10dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="dialog_profile_more_button_ok_left_right">30dp</dimen>
+    <dimen name="dialog_profile_more_button_ok_top_bottom">5dp</dimen>
+    <!-- panel -->
+    <dimen name="panel_handle_button_width">120dp</dimen>
+    <dimen name="panel_handle_button_height">25dp</dimen>
+    <dimen name="panel_content_margin">10dp</dimen>
+    <!-- my profile -->
+    <dimen name="my_profile_margin_common">10dp</dimen>
+    <dimen name="my_profile_status_margin_bottom">20dp</dimen>
+    <dimen name="my_profile_dialog_width_common">80dp</dimen>
+    <dimen name="img_profile_list_five_size">50dp</dimen>
+    <dimen name="my_profile_buzz_like_button_width">60dp</dimen>
+    <dimen name="my_profile_buzz_like_button_height">37dp</dimen>
+    <dimen name="my_profile_buzz_like_button_margin">5dp</dimen>
+    <!-- Meet people -->
+    <dimen name="meetpeople_name_text_size">15sp</dimen>
+    <dimen name="meetpeople_margin_common">3dp</dimen>
+    <dimen name="meetpeople_margin_common_list">1dp</dimen>
+    <dimen name="meetpeople_columm_space">2dp</dimen>
+    <dimen name="avata_list_meetpeople_size">60dp</dimen>
+    <dimen name="avata_list_meetpeople_margin_vertical">5dp</dimen>
+    <dimen name="item_list_meetpeople_frame_margin_horizontal">6dp</dimen>
+    <!-- Picker -->
+    <dimen name="dialog_age_min_and_max_padding">30dp</dimen>
+    <dimen name="dialog_age_min_and_max_picker_margin_left">15dp</dimen>
+    <dimen name="dialog_age_min_and_max_picker_margin_right">15dp</dimen>
+    <dimen name="number_picker_width">60dp</dimen>
+
+    <!-- Ethnicity -->
+    <dimen name="activity_ethnicity_item_text_view_margin">15dp</dimen>
+    <dimen name="activity_ethnicity_item_image_width">15dp</dimen>
+    <dimen name="activity_ethnicity_item_image_height">15dp</dimen>
+    <dimen name="activity_ethnicity_item_image_margin_right">10dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="frame_input_border_radius">10dp</dimen>
+    <dimen name="toggle_button_group_radius">10dp</dimen>
+    <!-- conversation list -->
+    <dimen name="conversation_avatar_margin">7dp</dimen>
+    <dimen name="conversation_avatar_margin_left">3dp</dimen>
+
+    <!-- fragment_chat -->
+    <dimen name="fragment_chat_padding_btn">10dp</dimen>
+
+    <!-- Buffer -->
+    <dimen name="standard_main_layout_padding">12dp</dimen>
+    <dimen name="standard_horizontal_item_height">48dp</dimen>
+
+    <!-- Standard activity space -->
+    <dimen name="sd_main_layout_space_large">20dp</dimen>
+    <dimen name="sd_main_layout_space_medium">18dp</dimen>
+    <dimen name="sd_main_layout_padding">16dp</dimen>
+    <dimen name="sd_main_layout_space_small">14dp</dimen>
+    <dimen name="sd_main_layout_space_micro">12dp</dimen>
+    <!-- Standard horizontal space -->
+    <dimen name="sd_hori_space_large">12dp</dimen>
+    <dimen name="sd_hori_space_medium">10dp</dimen>
+    <dimen name="sd_hori_space_nomal">8dp</dimen>
+    <dimen name="sd_hori_space_small">6dp</dimen>
+    <dimen name="sd_hori_space_micro">4dp</dimen>
+    <dimen name="sd_hori_space_xmicro">2dp</dimen>
+    <!-- Standard vertical space -->
+    <dimen name="sd_verti_space_xlarge">12dp</dimen>
+    <dimen name="sd_verti_space_large">12dp</dimen>
+    <dimen name="sd_verti_space_medium">10dp</dimen>
+    <dimen name="sd_verti_space_nomal">8dp</dimen>
+    <dimen name="sd_verti_space_small">6dp</dimen>
+    <dimen name="sd_verti_space_micro">4dp</dimen>
+    <dimen name="sd_verti_space_xmicro">2dp</dimen>
+    <!-- Standard zero space -->
+    <dimen name="sd_zero_space_triple_border">3dp</dimen>
+    <dimen name="sd_zero_space_double_border">2dp</dimen>
+    <dimen name="sd_zero_space_border">1dp</dimen>
+    <dimen name="sd_zero_space_nomal">0dp</dimen>
+    <dimen name="sd_zero_space_hide_border_nomal">-1dp</dimen>
+    <dimen name="sd_zero_space_hide_border_shadow">-2dp</dimen>
+    <dimen name="sd_zero_space_hide_border_shadow_medium">-3dp</dimen>
+    <!-- Standard horizontal item height -->
+    <dimen name="sd_horizontal_item_height_xlarge">72dp</dimen>
+    <dimen name="sd_horizontal_item_height_large">64dp</dimen>
+    <dimen name="sd_horizontal_item_height_medium">56dp</dimen>
+    <dimen name="sd_horizontal_item_height_nomal">48dp</dimen>
+    <dimen name="sd_horizontal_item_height_small">40dp</dimen>
+    <dimen name="sd_horizontal_item_height_micro">36dp</dimen>
+    <dimen name="sd_horizontal_item_height_xmicro">24dp</dimen>
+    <!-- Standard square image in horizontal size XLARGE -->
+    <dimen name="sd_inner_hori_item_xLarge_size_xlarge">62dp</dimen>
+    <dimen name="sd_inner_hori_item_xLarge_size_large">56dp</dimen>
+    <dimen name="sd_inner_hori_item_xLarge_size_medium">50dp</dimen>
+    <dimen name="sd_inner_hori_item_xLarge_size_nomal">44dp</dimen>
+    <dimen name="sd_inner_hori_item_xLarge_size_small">38dp</dimen>
+    <!-- Standard square image in horizontal size LARGE -->
+    <dimen name="sd_inner_hori_item_large_size_xlarge">58dp</dimen>
+    <dimen name="sd_inner_hori_item_large_size_large">52dp</dimen>
+    <dimen name="sd_inner_hori_item_large_size_medium">46dp</dimen>
+    <dimen name="sd_inner_hori_item_large_size_nomal">40dp</dimen>
+    <dimen name="sd_inner_hori_item_large_size_small">34dp</dimen>
+    <!-- Standard square image in horizontal size MEDIUM -->
+    <dimen name="sd_inner_hori_item_medium_size_large">49dp</dimen>
+    <dimen name="sd_inner_hori_item_medium_size_medium">42dp</dimen>
+    <dimen name="sd_inner_hori_item_medium_size_nomal">35dp</dimen>
+    <dimen name="sd_inner_hori_item_medium_size_small">28dp</dimen>
+    <dimen name="sd_inner_hori_item_medium_size_micro">21dp</dimen>
+    <!-- Standard square image in horizontal size NOMAL -->
+    <dimen name="sd_inner_hori_item_normal_size_xlarge">44dp</dimen>
+    <dimen name="sd_inner_hori_item_normal_size_large">40dp</dimen>
+    <dimen name="sd_inner_hori_item_normal_size_medium">36dp</dimen>
+    <dimen name="sd_inner_hori_item_normal_size_normal">32dp</dimen>
+    <dimen name="sd_inner_hori_item_normal_size_small">28dp</dimen>
+    <dimen name="sd_inner_hori_item_normal_size_micro">24dp</dimen>
+    <!-- Standard square image in horizontal size SMALL -->
+    <dimen name="sd_inner_hori_item_small_size_large">36dp</dimen>
+    <dimen name="sd_inner_hori_item_small_size_medium">32dp</dimen>
+    <dimen name="sd_inner_hori_item_small_size_nomal">28dp</dimen>
+    <dimen name="sd_inner_hori_item_small_size_small">24dp</dimen>
+    <dimen name="sd_inner_hori_item_small_size_micro">20dp</dimen>
+    <!-- Standard square image in horizontal size MICRO -->
+    <dimen name="sd_inner_hori_item_microsize_xlarge">30dp</dimen>
+    <dimen name="sd_inner_hori_item_microsize_large">28dp</dimen>
+    <dimen name="sd_inner_hori_item_microsize_medium">26dp</dimen>
+    <dimen name="sd_inner_hori_item_microsize_nomal">24dp</dimen>
+    <dimen name="sd_inner_hori_item_microsize_small">22dp</dimen>
+    <!-- Standard square avata image size -->
+    <dimen name="sd_thum_size_xlarge">200dp</dimen>
+    <dimen name="sd_thum_size_large">150dp</dimen>
+    <dimen name="sd_thum_size_medium">100dp</dimen>
+    <dimen name="sd_thum_size_nomal">75dp</dimen>
+    <dimen name="sd_thum_size_small">50dp</dimen>
+    <dimen name="sd_thum_size_micro">42dp</dimen>
+    <dimen name="sd_thum_size_xmicro">35dp</dimen>
+    <!-- Standard text size -->
+    <dimen name="sd_text_size_very_large">24sp</dimen>
+    <dimen name="sd_text_size_large">22sp</dimen>
+    <dimen name="sd_text_size_medium">18sp</dimen>
+    <dimen name="sd_text_size_normal">16sp</dimen>
+    <dimen name="sd_text_size_small">14sp</dimen>
+    <dimen name="sd_text_size_micro">12sp</dimen>
+
+    <!-- Standard radius -->
+    <dimen name="sd_radius_large">30dp</dimen>
+    <dimen name="sd_radius_medium">20dp</dimen>
+    <dimen name="sd_radius_nomal">15dp</dimen>
+    <dimen name="sd_radius_small">10dp</dimen>
+    <dimen name="sd_radius_micro">5dp</dimen>
+    <!-- CUSTOM DIMEN -->
+    <dimen name="image_profile_height">300dp</dimen>
+    <dimen name="radius_tab">@dimen/sd_radius_small</dimen>
+    <dimen name="info_frame_list_buzz_size">50dp</dimen>
+    <dimen name="img_avata_item_list_buzz_size">40dp</dimen>
+    <dimen name="img_avata_item_list_buzz_margin">5dp</dimen>
+    <dimen name="img_commenter_avata_item_list_buzz_size">36dp</dimen>
+    <dimen name="img_gift_item_list_buzz_size">90dp</dimen>
+    <dimen name="img_photo_item_list_buzz_size">128dp</dimen>
+    <dimen name="button_buzz_detail_report_size">32dp</dimen>
+    <dimen name="img_gift_item_list_padding">6dp</dimen>
+    <dimen name="item_content_buzz_margin_left">10dp</dimen>
+    <dimen name="img_gift_item_list_description_padding_left">4dp</dimen>
+    <!-- Activity sign up -->
+    <dimen name="tbr_group_button_ac_sign_in_margin_top">15dp</dimen>
+    <dimen name="tbr_group_button_ac_sign_in_margin_horizontal">10dp</dimen>
+    <dimen name="btn_sign_up_ac_sign_in_margin_right">10dp</dimen>
+    <dimen name="btn_facebook_connect_ac_sign_in_margin">5dp</dimen>
+    <!-- Activity setup profile -->
+    <dimen name="img_avata_ac_setup_profile">60dp</dimen>
+    <dimen name="img_avata_ac_setup_profile_margin_top">5dp</dimen>
+    <!-- value for handlepanel -->
+    <dimen name="handle_panel_height">30dp</dimen>
+    <!-- value margin for listview, gridview in screen with handlepanel -->
+    <dimen name="list_margin_with_panel">-30dp</dimen>
+
+    <!-- item_list_contact -->
+    <dimen name="item_list_contact_avatar_size">50dp</dimen>
+    <dimen name="item_list_contact_padding_left">5dp</dimen>
+    <dimen name="undread_message_text_size_micro">8sp</dimen>
+    <dimen name="item_list_connection_empty_margin_top">50dp</dimen>
+    <dimen name="fragment_share_my_buzz_capture_size">70dp</dimen>
+    <dimen name="fragment_share_my_buzz_margin_common">5dp</dimen>
+    <dimen name="fragment_give_gift_text_size">20sp</dimen>
+    <dimen name="item_list_buzz_profile_padding">5dp</dimen>
+    <dimen name="record_header_margin_top">100dp</dimen>
+    <dimen name="record_common_margin_top">10dp</dimen>
+    <dimen name="record_common_margin">5dp</dimen>
+    <dimen name="record_view_width">200dp</dimen>
+    <dimen name="record_view_height">50dp</dimen>
+    <dimen name="record_view_chat_margin">20dp</dimen>
+    <dimen name="record_audio_view_custom">0dp</dimen>
+    <dimen name="record_release_margin">30dp</dimen>
+    <dimen name="item_buzz_comment_text_size">14sp</dimen>
+    <dimen name="title_tab_widget_text_size">17sp</dimen>
+    <dimen name="item_buzz_content_padding_left">20dp</dimen>
+
+    <!-- size image when select from Gallery or Camera, in ChatFragment -->
+    <dimen name="size_image_chat">50dp</dimen>
+    <dimen name="item_choose_gift_margin">10dp</dimen>
+
+    <!-- dimens in item_pager_media_file -->
+    <dimen name="item_pager_media_file_padding">10dp</dimen>
+    <dimen name="item_pager_media_file_margin">1dp</dimen>
+    <dimen name="item_pager_media_file_row_height">100dp</dimen>
+    <dimen name="item_pager_media_file_indicator_margin">3dp</dimen>
+    <!-- width and heigth item media: emoji, sticker -->
+    <dimen name="item_grid_meida">80dp</dimen>
+    <dimen name="item_list_chat_media">100dp</dimen>
+    <dimen name="item_list_chat_avatar">50dp</dimen>
+    <dimen name="item_profile_gift_grid_text_size">15sp</dimen>
+    <dimen name="item_list_chat_thumb_size">100dp</dimen>
+    <dimen name="item_buzz_item_statistic_margin">50dp</dimen>
+
+    <!-- values in LookAtme -->
+    <dimen name="lookatme_padding_layout">20dp</dimen>
+    <dimen name="lookatme_padding_item_first">4dp</dimen>
+    <dimen name="lookatme_padding_item_second">2dp</dimen>
+    <dimen name="lookatme_padding_item_third">3dp</dimen>
+    <dimen name="item_list_chat_gift_size">200dp</dimen>
+
+    <!-- value in NotificationSettingFragment -->
+    <dimen name="fragment_notification_setting_padding">5dp</dimen>
+    <dimen name="fragment_notification_setting_item_padding">10dp</dimen>
+    <dimen name="button_dialog_hozirontal_margin">10dp</dimen>
+    <dimen name="notification_text_size">16sp</dimen>
+    <!-- Point Fragment -->
+    <dimen name="fragment_point_margin">10dp</dimen>
+    <dimen name="fragmnet_point_item_padding">10dp</dimen>
+    <dimen name="fragmnet_point_padding">10dp</dimen>
+    <dimen name="fragment_point_list_margin_top">5dp</dimen>
+    <dimen name="fragment_point_btn0_margin_bottom">5dp</dimen>
+    <dimen name="fragmnet_point_tbr_padding">7dp</dimen>
+
+    <!-- Buy Point -->
+    <dimen name="activity_buy_point_padding">10dp</dimen>
+    <dimen name="item_list_buy_point_padding">5dp</dimen>
+    <dimen name="item_list_buy_point_margin">5dp</dimen>
+    <!-- Size for gift, thumb,avatar in myprofile -->
+    <dimen name="gift_size">60dp</dimen>
+    <dimen name="thumb_size">60dp</dimen>
+    <dimen name="avatar_size">60dp</dimen>
+    <dimen name="btn_send_fg_chat_padding">5dp</dimen>
+    <!-- Height to dectect keyboard open or close -->
+    <dimen name="height_keyboard">100dp</dimen>
+    <dimen name="width_image_category">150dp</dimen>
+    <dimen name="icon_category_sticker_padding">5dp</dimen>
+
+    <!-- VoiP -->
+    <dimen name="voip_frame_main_padding">10dp</dimen>
+    <dimen name="voip_frame_info_height">120dp</dimen>
+    <dimen name="voip_frame_avata_size">80dp</dimen>
+    <dimen name="voip_frame_avata_padding">5dp</dimen>
+    <dimen name="voip_frame_video_avata_size">140dp</dimen>
+    <dimen name="voip_frame__video_avata_size_inside">110dp</dimen>
+    <dimen name="voip_frame_video_avata_padding">15dp</dimen>
+    <dimen name="voip_frame_video_avata_margin_bottom">100dp</dimen>
+    <dimen name="voip_txt_name_size">18sp</dimen>
+    <dimen name="voip_txt_name_size_small">16sp</dimen>
+    <dimen name="voip_txt_name_margin_vertical">3dp</dimen>
+    <dimen name="voip_txt_status_size">16sp</dimen>
+    <dimen name="voip_txt_video_status_margin_bottom">10dp</dimen>
+    <dimen name="voip_btn_voice_control_height">50dp</dimen>
+    <dimen name="voip_btn_video_control_height">40dp</dimen>
+    <dimen name="voip_btn_video_control_width">80dp</dimen>
+    <dimen name="voip_btn_video_control_margin_bottom">10dp</dimen>
+    <dimen name="voip_btn_camera_change_margin_right">5dp</dimen>
+    <dimen name="voip_margin_to_screen">10dp</dimen>
+    <dimen name="voip_margin_top">10dp</dimen>
+    <dimen name="voip_padding_to_bottom_screen">20dp</dimen>
+    <dimen name="voip_padding_camera_control">5dp</dimen>
+    <dimen name="max_width_item_chat">200dp</dimen>
+    <dimen name="max_width_item_chat_location">180dp</dimen>
+    <dimen name="chat_width_warning">40dp</dimen>
+    <dimen name="chat_width_time">50dp</dimen>
+    <dimen name="chat_width_progress">50dp</dimen>
+
+</resources>

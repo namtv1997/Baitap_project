@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Battap_Project</string>
+    <string name="email"><![CDATA[<email>]]></string>
+    <string name="enter_email"><![CDATA[<Enter email>]]></string>
+    <string name="enter_password"><![CDATA[<Enter password>]]></string>
+    <string name="textview_deactivate_account">If you just want to remove the andG
+        application but would like to continue using andG through
+        %1$s, please do not deactivate your account. Instead,
+        simple remove the application without deactivating it.
+    </string>
+    <string name="btn_deactivate_account_no">Don\'t deactivate, I want andG</string>
+    <string name="btn_deactivate_account_yes">Deactivate my andG account</string>
+    <string name="toggle_button_group_women_button">凹</string>
+    <string name="search_setting_show_me_men">凸</string>
+    <string name="common_men_and_women">凸 and 凹</string>
+    <string name="gender">Gender</string>
+    <string name="thebasic">The Basics</string>
+    <string name="name">Name</string>
+    <string name="q">q</string>
+    <string name="search_setting_location_city">City</string>
+    <string name="search_setting_location_state">State</string>
+    <string name="search_setting_location_country">Country</string>
+    <string name="search_setting_location_world">World</string>
+    <string name="age">Age</string>
+    <string name="search_setting_show_me_women">凹</string>
+    <string name="search_setting_location_near">Near</string>
+    <string name="toggle_button_group_men_button">凸</string>
+    <string name="toggle_button_group_both_button">Both</string>
+    <string name="toggle_button_group_near_button">Near</string>
+    <string name="toggle_button_group_city_button">City</string>
+    <string name="toggle_button_group_state_button">State</string>
+    <string name="toggle_button_group_country_button">Country</string>
+    <string name="toggle_button_group_world_button">World</string>
+    <string name="haitu">24</string>
+    <string name="location">Location(Auto)</string>
+    <string name="yenhoa">Yên Hòa,Cầu Giấy,Hanoi,Vietnam</string>
+    <string name="interest">Intereted In</string>
+    <string name="acount">Account</string>
+    <string name="distance">Distance in</string>
+    <string name="block">Blocked Users</string>
+    <string name="miles">Miles</string>
+    <string name="deactive">Deactivate Account</string>
+    <string name="rate">rate andG</string>
+    <string name="terms">Terms of Service</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="termsof">Terms of Use</string>
+    <string name="version">Version 1.0.0.0b r5482_20140425_16:9</string>
+    <string name="looking">Looking For</string>
+    <string name="askme">Ask me</string>
+    <string name="extend">Extended Info</string>
+    <string name="about">About Me</string>
+    <string name="relati">Relationship status</string>
+    <string name="body">Body Type</string>
+    <string name="height">Height</string>
+    <string name="ethnici">Ethnicity</string>
+    <string name="chatand">Chat and Notification Settings:</string>
+    <string name="sound">Sound On</string>
+    <string name="vibra">Vibration On</string>
+    <string name="yourtotalpoint">Your Total Points</string>
+    <string name="mot3672">13672</string>
+    <string name="kilometers">Kilometers</string>
+    <string name="single">Single</string>
+    <string name="inarelationship">In a relationship</string>
+    <string name="married">Married</string>
+    <string name="itcomplicated">Its complicated</string>
+    <string name="inanopenrelationship">In an open relation ship</string>
+    <string name="separated">Separated</string>
+    <string name="divorced">Divorced</string>
+    <string name="inacivilunion">In a civil union</string>
+    <string name="ofagebetween">of age between</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

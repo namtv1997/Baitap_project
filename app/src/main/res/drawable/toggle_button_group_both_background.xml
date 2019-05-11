@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- When user press this button in uncheck state -->
+    <item android:state_checked="false" android:state_pressed="true">
+        <layer-list >
+            <item >
+				<shape>
+				    <stroke
+				        android:width="1dp"
+				        android:color="@color/frame_input_border" />
+					<gradient
+				        android:angle="270"
+					    android:startColor="@color/toggle_button_group_start"
+					    android:endColor="@color/toggle_button_group_end" />
+				    <corners
+				        android:radius="@dimen/toggle_button_group_radius" />
+				</shape>
+			</item>
+        </layer-list>
+	</item>
+<!-- When user press this button in checked state -->
+    <item android:state_checked="true" android:state_pressed="true">
+        <layer-list >
+            <item >
+				<shape>
+				    <stroke
+				        android:width="1dp"
+				        android:color="@color/frame_input_border" />
+					<gradient
+				        android:angle="270"
+					    android:startColor="@color/toggle_button_group_start_pressed"
+					    android:endColor="@color/toggle_button_group_end_pressed" />
+				    <corners
+				        android:radius="@dimen/toggle_button_group_radius" />
+				</shape>
+			</item>
+        </layer-list>
+	</item>
+<!-- When user checked this button -->
+    <item android:state_checked="true" android:state_pressed="false">
+        <layer-list >
+            <item >
+				<shape>
+				    <stroke
+				        android:width="1dp"
+				        android:color="@color/frame_input_border" />
+					<gradient
+				        android:angle="270"
+					    android:startColor="@color/toggle_button_group_start_checked"
+					    android:endColor="@color/toggle_button_group_end_checked" />
+				    <corners
+				        android:radius="@dimen/toggle_button_group_radius" />
+				</shape>
+			</item>
+        </layer-list>
+	</item>
+<!-- Default state -->
+    <item android:state_checked="false" android:state_pressed="false">
+        <layer-list >
+            <item >
+				<shape>
+				    <stroke
+				        android:width="1dp"
+				        android:color="@color/frame_input_border" />
+					<gradient
+				        android:angle="270"
+					    android:startColor="@color/toggle_button_group_start"
+					    android:endColor="@color/toggle_button_group_end" />
+				    <corners
+				        android:radius="@dimen/toggle_button_group_radius" />
+				</shape>
+			</item>
+        </layer-list>
+	</item>
+</selector>
